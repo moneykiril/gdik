@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>
+В мире животных - сайт о жизни животных и их повадках
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<meta name="Title" content="В мире животных - сайт о жизни животных и их повадках">
+<meta name="description" content="Жизнь диких животных в природе">
+<meta name="keywords" content="животные, дикие животные, жизнь животных, природа животных">
+
+</head>
+
+<body>
+
+Это главная страница сайта "В мире животных"
+
+</body>
+</html>
